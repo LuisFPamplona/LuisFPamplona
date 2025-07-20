@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Olá! Eu sou o Luis Pamplona 👋</h1>
 
-<!--
-**LuisFPamplona/LuisFPamplona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Desenvolvedor Web Fullstack em formação <br/>
+  🚀 Focado em construir aplicações completas com React, Node.js e bancos de dados
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Sobre mim
+
+Sou um desenvolvedor web em transição de carreira, determinado a me tornar fullstack. Meu foco está em aprender de forma prática, construindo projetos reais que envolvam tanto o frontend quanto o backend.
+
+Atualmente, estou aprofundando meus conhecimentos em:
+
+- **React.js** com Hooks e bibliotecas modernas
+- **Node.js / Express** com autenticação, rotas protegidas e APIs REST
+- **Banco de dados** (MySQL, Prisma, MongoDB)
+- **Deploy** com Render, Vercel e GitHub Pages
+
+---
+
+### 🛠️ Tecnologias
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+---
+
+### 🧩 Projetos em destaque
+
+🔹 **[Taskly](https://github.com/LuisFPamplona/taskly)**  
+Aplicação fullstack com autenticação JWT, CRUD completo de tarefas, filtros e deploy integrado (Vercel + Render)  
+🔗 [Acesse o projeto](https://taskly-woad.vercel.app)
+
+🔹 **[React To-Do List](https://github.com/LuisFPamplona/react-todolist)**  
+Meu primeiro projeto com React + TailwindCSS, com foco em produtividade e boas práticas.  
+🔗 [Acesse o projeto](https://luisfpamplona.github.io/react-todolist)
+
+---
+
+### 📬 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/luis-pamplona-7932b31b7/)
+- Email: **luispamplona2702@gmail.com**
+- GitHub: [@LuisFPamplona](https://github.com/LuisFPamplona)
+
+---
+
+<p align="center">✨ Em constante evolução, aprendendo algo novo todos os dias! ✨</p>
+
