@@ -45,7 +45,7 @@ Meu primeiro projeto com React + TailwindCSS, com foco em produtividade e boas p
 
 ### 📬 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/luis-pamplona-7932b31b7/)
+- [LinkedIn](www.linkedin.com/in/luis-pamplona-552030310)
 - Email: **luispamplona2702@gmail.com**
 - GitHub: [@LuisFPamplona](https://github.com/LuisFPamplona)
 
