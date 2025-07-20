@@ -33,11 +33,11 @@ Atualmente, estou aprofundando meus conhecimentos em:
 
 ### 🧩 Projetos em destaque
 
-🔹 **[Taskly](https://github.com/LuisFPamplona/taskly)**  
+🔹 **[Taskly – App de tarefas com login, CRUD e filtros](https://github.com/LuisFPamplona/taskly)**  
 Aplicação fullstack com autenticação JWT, CRUD completo de tarefas, filtros e deploy integrado (Vercel + Render)  
 🔗 [Acesse o projeto](https://taskly-woad.vercel.app)
 
-🔹 **[LUISta](https://github.com/LuisFPamplona/LUISta)**  
+🔹 **[LUIsta – To-do list com React](https://github.com/LuisFPamplona/LUISta)**  
 Meu primeiro projeto com React + TailwindCSS, com foco em produtividade e boas práticas.  
 🔗 [Acesse o projeto](https://luisfpamplona.github.io/LUISta/)
 
