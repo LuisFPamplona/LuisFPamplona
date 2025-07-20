@@ -9,7 +9,7 @@
 
 ### 🧠 Sobre mim
 
-Sou um desenvolvedor web em transição de carreira, determinado a me tornar fullstack. Meu foco está em aprender de forma prática, construindo projetos reais que envolvam tanto o frontend quanto o backend.
+Sou um desenvolvedor web, determinado a me tornar fullstack. Meu foco está em aprender de forma prática, construindo projetos reais que envolvam tanto o frontend quanto o backend.
 
 Atualmente, estou aprofundando meus conhecimentos em:
 
