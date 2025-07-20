@@ -52,6 +52,7 @@ Meu primeiro projeto com React + TailwindCSS, com foco em produtividade e boas p
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisFPamplona&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFPamplona&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">✨ Em constante evolução, aprendendo algo novo todos os dias! ✨</p>
 
