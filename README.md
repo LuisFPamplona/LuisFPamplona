@@ -29,7 +29,6 @@ Atualmente, estou aprofundando meus conhecimentos em:
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisFPamplona&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### 🧩 Projetos em destaque
@@ -51,6 +50,8 @@ Meu primeiro projeto com React + TailwindCSS, com foco em produtividade e boas p
 - GitHub: [@LuisFPamplona](https://github.com/LuisFPamplona)
 
 ---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisFPamplona&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">✨ Em constante evolução, aprendendo algo novo todos os dias! ✨</p>
 
