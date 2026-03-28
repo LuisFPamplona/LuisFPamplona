@@ -1,52 +1,51 @@
-<h1 align="center">Olá! Eu sou o Luis Pamplona 👋</h1>
+<h1 align="center">Hi! I'm Luis Pamplona 👋</h1>
 
 <p align="center">
-  💻 Desenvolvedor Web Fullstack em formação <br/>
-  🚀 Focado em construir aplicações completas com React, Node.js e bancos de dados
+  Aspiring Fullstack Web Developer<br/>
+  Focused on building full-stack applications with React, Node.js and databases
 </p>
 
 ---
 
-### 🧠 Sobre mim
+### About me
 
-Sou um desenvolvedor web, determinado a me tornar fullstack. Meu foco está em aprender de forma prática, construindo projetos reais que envolvam tanto o frontend quanto o backend.
+I am a web developer determined to become a fullstack developer. My focus is on learning through hands-on practice by building real-world projects that involve both frontend and backend.
 
-Atualmente, estou aprofundando meus conhecimentos em:
+Currently, I am deepening my knowledge in:
 
-- **React.js** com Hooks e bibliotecas modernas
-- **Node.js / Express** com autenticação, rotas protegidas e APIs REST
-- **Banco de dados** (MySQL, Prisma, MongoDB)
-- **Deploy** com Render, Vercel e GitHub Pages
+- **React.js** with Hooks and modern libraries
+- **Node.js / Express** with authentication, protected routes, and REST APIs
+- **Databases** (MySQL, MongoDB)
+- **Deployment** with Render, Vercel, and GitHub Pages
 
 ---
 
-### 🛠️ Tecnologias
+### Technologies
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
-### 🧩 Projetos em destaque
+### Featured Projects (Designed for mobile)
 
-🔹 **[Taskly – App de tarefas com login, CRUD e filtros](https://github.com/LuisFPamplona/taskly)**  
-Aplicação fullstack com autenticação JWT, CRUD completo de tarefas, filtros e deploy integrado (Vercel + Render)  
-🔗 [Acesse o projeto](https://taskly-woad.vercel.app)
+🔹 **[financee – Finance app built with React to manage income and expenses](https://github.com/LuisFPamplona/financee)**  
+Personal finance app built with React to track income and expenses, featuring category-based organization, transaction management, and a clean mobile-first interface.  <br>
+🔗 [Live Demo](https://financee-pi.vercel.app/)
 
-🔹 **[LUIsta – To-do list com React](https://github.com/LuisFPamplona/LUISta)**  
-Meu primeiro projeto com React + TailwindCSS, com foco em produtividade e boas práticas.  
-🔗 [Acesse o projeto](https://luisfpamplona.github.io/LUISta/)
+🔹 **[LUIsta – To-do list built with React](https://github.com/LuisFPamplona/LUISta)**  
+React + TailwindCSS application focused on productivity and clean UI practices.  <br>
+🔗 [Live Demo](https://lui-sta.vercel.app/)
 
 ---
 
-### 📬 Contato
+### Contact
 
 - Email: **luispamplona2702@gmail.com**
-- [LinkedIn](www.linkedin.com/in/luis-pamplona-552030310)
+- [LinkedIn](https://www.linkedin.com/in/luis-pamplona-552030310)
 - [GitHub](https://github.com/LuisFPamplona)
 
 ---
@@ -54,5 +53,4 @@ Meu primeiro projeto com React + TailwindCSS, com foco em produtividade e boas p
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisFPamplona&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFPamplona&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">✨ Em constante evolução, aprendendo algo novo todos os dias! ✨</p>
-
+<p align="center">Always evolving, learning something new every day! </p>
