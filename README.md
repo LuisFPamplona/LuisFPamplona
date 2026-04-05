@@ -1,26 +1,26 @@
-<h1 align="center">Hi! I'm Luis Pamplona 👋</h1>
+<h1 align="center">Olá! Me chamo Luis Pamplona 👋</h1>
 
 <p align="center">
-  Aspiring Fullstack Web Developer<br/>
-  Focused on building full-stack applications with React, Node.js and databases
+  Desenvolvedor Web Fullstack em formação<br/>
+  Focado em construir aplicações completas com React, Node.js e bancos de dados
 </p>
 
 ---
 
-### About me
+### Sobre mim
 
-I am a web developer determined to become a fullstack developer. My focus is on learning through hands-on practice by building real-world projects that involve both frontend and backend.
+Sou um desenvolvedor web determinado a me tornar um desenvolvedor fullstack. Meu foco está em aprender na prática, construindo projetos reais que envolvem tanto frontend quanto backend.
 
-Currently, I am deepening my knowledge in:
+Atualmente, estou aprofundando meus conhecimentos em:
 
-- **React.js** with Hooks and modern libraries
-- **Node.js / Express** with authentication, protected routes, and REST APIs
-- **Databases** (MySQL, MongoDB)
-- **Deployment** with Render, Vercel, and GitHub Pages
+- **React.js** com Hooks e bibliotecas modernas
+- **Node.js / Express** com autenticação, rotas protegidas e APIs REST
+- **Bancos de dados** (MySQL, MongoDB)
+- **Deploy** com Render, Vercel e GitHub Pages
 
 ---
 
-### Technologies
+### Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -30,19 +30,19 @@ Currently, I am deepening my knowledge in:
 
 ---
 
-### Featured Projects (Designed for mobile)
+### Projetos em Destaque (Mobile First)
 
-🔹 **[financee – Finance app built with React to manage income and expenses](https://github.com/LuisFPamplona/financee)**  
-Personal finance app built with React to track income and expenses, featuring category-based organization, transaction management, and a clean mobile-first interface.  <br>
-🔗 [Live Demo](https://financee-pi.vercel.app/)
+🔹 **[Financee – Aplicação de controle financeiro desenvolvida com React](https://github.com/LuisFPamplona/financee)**  
+Aplicação de finanças pessoais desenvolvida com React para gerenciar receitas e despesas, com organização por categorias, controle de transações e uma interface limpa com abordagem mobile-first.  <br>
+🔗 [Ver aplicação](https://financee-pi.vercel.app/)
 
-🔹 **[LUIsta – To-do list built with React](https://github.com/LuisFPamplona/LUISta)**  
-React + TailwindCSS application focused on productivity and clean UI practices.  <br>
-🔗 [Live Demo](https://lui-sta.vercel.app/)
+🔹 **[LUIsta – Lista de tarefas desenvolvida com React](https://github.com/LuisFPamplona/LUISta)**  
+Aplicação desenvolvida com React e TailwindCSS, focada em produtividade, organização e boas práticas de interface.  <br>
+🔗 [Ver aplicação](https://lui-sta.vercel.app/)
 
 ---
 
-### Contact
+### Contato
 
 - Email: **luispamplona2702@gmail.com**
 - [LinkedIn](https://www.linkedin.com/in/luis-pamplona-552030310)
@@ -50,7 +50,4 @@ React + TailwindCSS application focused on productivity and clean UI practices. 
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisFPamplona&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFPamplona&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="center">Always evolving, learning something new every day! </p>
+<p align="center">Sempre evoluindo e aprendendo algo novo todos os dias 🚀</p>
