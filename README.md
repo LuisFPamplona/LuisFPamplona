@@ -1,61 +1,62 @@
-<h1 align="center">Olá! Me chamo Luis Pamplona</h1>
+<h1 align="center">Luis Pamplona</h1>
 
 <p align="center">
-  Desenvolvedor Web Fullstack em formação<br/>
-  Focado em construir aplicações completas com React, Node.js e bancos de dados
+  Fullstack Developer<br/>
+  Building real-world applications with React, Node.js and PostgreSQL
 </p>
 
 ---
 
-### Sobre mim
+### About me
 
-Sou um desenvolvedor web determinado a me tornar um desenvolvedor fullstack. Meu foco está em aprender na prática, construindo projetos reais que envolvem tanto frontend quanto backend.
+I’m a web developer building fullstack applications end-to-end.
 
-Atualmente, estou aprofundando meus conhecimentos em:
+I focus on learning through real-world projects.
 
-- **React.js** com Hooks e bibliotecas modernas
-- **Node.js / Express** com autenticação, rotas protegidas e APIs REST
-- **Bancos de dados** (MySQL, MongoDB)
-- **Deploy** com Render, Vercel e GitHub Pages
+I’ve been working on projects involving:
 
----
-
-### Tecnologias
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-<br>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreeSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+- Frontend architecture and UI/UX decisions
+- Backend APIs and business logic
+- Database modeling and real production scenarios
+- Deployment and debugging in real environments
 
 ---
 
-### Projetos em Destaque (Mobile First)
+### Tech Stack
 
-🔹 **[Financee – Aplicação de controle financeiro](https://github.com/LuisFPamplona/financee)**  
-Aplicação de finanças pessoais desenvolvida com React para gerenciar receitas e despesas, com organização por categorias, controle de transações e uma interface limpa com abordagem mobile-first.  <br>
-🔗 [Ver aplicação](https://financee-pi.vercel.app/)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
-🔹 **[Taskly – Gerenciador de Tarefas](https://github.com/LuisFPamplona/taskly)**  
-Aplicação web full stack para gerenciamento de tarefas com autenticação de usuários.  <br>
-🔗 [Ver aplicação](https://taskly-woad.vercel.app/)
-
-🔹 **[LUIsta – Lista de tarefas](https://github.com/LuisFPamplona/LUISta)**  
-Aplicação desenvolvida com React e TailwindCSS, focada em produtividade, organização e boas práticas de interface.  <br>
-🔗 [Ver aplicação](https://lui-sta.vercel.app/)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 ---
 
-### Contato
+### Featured Projects
 
-- Email: **luispamplona2702@gmail.com**
-- [LinkedIn](https://www.linkedin.com/in/luis-pamplona-552030310)
-- [GitHub](https://github.com/LuisFPamplona)
+🔹 **[Revisei – Study Management App](https://github.com/LuisFPamplona/front-end-revisei)**
+Fullstack application focused on study organization and progress tracking.  
+Features include daily goals, smart navigation and performance insights.  
+🔗 https://revisei.vercel.app/
+
+🔹 **[Financee – Personal Finance App](https://github.com/LuisFPamplona/financee)**
+Personal finance manager built with React, featuring transaction tracking and category organization. <br>
+🔗 https://financee-pi.vercel.app/
+
+🔹 **[Taskly – Task Manager](https://github.com/LuisFPamplona/taskly)**
+Fullstack task management app with authentication and CRUD operations. <br>
+🔗 https://taskly-woad.vercel.app/
 
 ---
 
-<p align="center">Em constante evolução, aprendendo algo novo todos os dias. </p>
+### Contact
+
+* Email: [luispamplona2702@gmail.com](mailto:luispamplona2702@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/luis-pamplona-552030310
+
+---
+
+<p align="center">Always building, always improving.</p>
